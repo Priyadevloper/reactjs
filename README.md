@@ -1,4 +1,4 @@
 # reactjs
-This is my 1st webpage in vac using html.
+This is my 1st webpage.
 ![Preview](react2.png)
 
